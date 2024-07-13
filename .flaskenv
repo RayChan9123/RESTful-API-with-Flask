@@ -1,0 +1,3 @@
+#.flaskenv
+MAIL_USERNAME=1948e0ace0972e
+MAIL_PASSWORD=44ecbc2c8dce22
